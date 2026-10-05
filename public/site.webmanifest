@@ -1,0 +1,20 @@
+{
+  "name": "Crazz Media - 360° Digital Marketing Agency",
+  "short_name": "Crazz Media",
+  "icons": [
+    {
+      "src": "/crazz-media-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/crazz-media-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#7c3aed",
+  "background_color": "#ffffff"
+}

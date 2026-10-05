@@ -1,0 +1,11 @@
+# Robots.txt for Crazz Media
+# Optimized for Googlebot, Bingbot, and other major crawlers
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Sitemaps
+Sitemap: https://crazzmedia.com/sitemap.xml
